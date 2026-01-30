@@ -1,0 +1,1 @@
+# android-hardware-acceleration-snapdragon

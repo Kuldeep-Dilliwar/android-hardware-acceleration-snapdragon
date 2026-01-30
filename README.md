@@ -56,6 +56,8 @@ gpu glxinfo -B
 ```
 ## How to start it next time
 ```
+pkill -f termux-x11
+rm -rf $PREFIX/tmp/.X0-lock
 termux-x11 :0 &
 start-desktop
 ```

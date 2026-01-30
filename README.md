@@ -1,4 +1,4 @@
-# How to enable snapdragon hardware acceleration in Termux?
+# How to enable snapdragon hardware acceleration in native Termux?
 ## Here is how to:
 ```
 # 1. Update everything silently (Force "Yes" to all prompts)

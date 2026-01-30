@@ -49,3 +49,8 @@ echo "STARTING BENCHMARK (Switch to X11 App to watch!)"
 echo "---------------------------------------------------"
 glmark2
 ```
+## How to start it next time
+```
+termux-x11 :0 &
+start-desktop
+```

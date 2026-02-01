@@ -63,7 +63,5 @@ rm -rf $PREFIX/tmp/.X0-lock
 ```
 ```
 termux-x11 :0 &
-```
-```
 start-desktop
 ```
